@@ -1,4 +1,4 @@
-# Summary: Semantic Search Engine using Sentence-BERT (SBERT)
+# Semantic Search Engine using Sentence-BERT (SBERT)
 
 ## Overview
 
